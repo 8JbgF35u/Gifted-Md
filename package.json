@@ -1,7 +1,7 @@
 {
-  "name": "gifted-md",
+  "name": "𝙅𝞗𝙔𝞑𝞗𝙔-𝞛𝘿",
   "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
+  "description": "𝙅𝞗𝙔𝞑𝞗𝙔 latest multi device whatsapp bot",
   "main": "./gifted/gifted.js",
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
@@ -10,8 +10,8 @@
     "stop": "pm2 stop gifted",
     "restart": "pm2 restart gifted"
   },
-  "keywords": ["gifted-md", "whatsapp-bot", "gifted-tech"],
-  "author": "Gifted Tech",
+  "keywords": ["𝙅𝞗𝙔𝞑𝞗𝙔-𝞛𝘿", "whatsapp-bot", "𝙅𝞗𝙔𝞑𝞗𝙔 tech"],
+  "author": "𝙅𝞗𝙔𝞑𝞗𝙔 Tech",
   "license": "GNU",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
